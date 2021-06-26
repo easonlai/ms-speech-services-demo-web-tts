@@ -21,3 +21,7 @@ npm start
 ```shell
 http://localhost:3000
 ```
+
+Node.JS and Express.Js version to run code perfectly are 12.18.4 and 4.16.0.
+
+![alt text](https://github.com/easonlai/ms-speech-services-demo-web-tts/raw/main/git_images/screenshot_1.png)
